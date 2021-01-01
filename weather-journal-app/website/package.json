@@ -1,0 +1,11 @@
+{
+  "name": "weather-journal-app",
+  "version": "1.0.0",
+  "description": "recieve temperature data from a weather API according to zip code and post it on the web app",
+  "main": "app.js",
+  "scripts": {
+    "test": "tests.js"
+  },
+  "author": "Peter",
+  "license": "ISC"
+}
